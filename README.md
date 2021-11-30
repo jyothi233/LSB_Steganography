@@ -1,5 +1,3 @@
-# stunning-meme
-LSB image steganography
 import optparse
 import PIL from image
 def rgb2hex(r, g, b):
